@@ -1,6 +1,8 @@
+import FormFile from "./component/FormFile";
+
 function App() {
 	return (
-		<h1>Hello world</h1>
+		<FormFile></FormFile>
 	);
 }
 
